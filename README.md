@@ -2,7 +2,7 @@
 
 <h3 align="center">🌈 SNS & Portfolio 🌈</h3>
 <p align="center">
-  <a href="https://techblogs.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://techblogs.tistory.com/"/></a>&nbsp
+  <a href="https://techblogs.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://techblogs.tistory.com/" disabled/></a>&nbsp
   <a href="https://www.instagram.com/meizzi_2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/meizzi_2/"/></a>&nbsp
   <a href="mailto:a01041659078@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=a01041659078@gmail.com"/></a>
 </p>
