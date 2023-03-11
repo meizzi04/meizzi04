@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=afc4e7&height=200&section=header&text=Kim%20Mi%20Ryeong&fontSize=50 "/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=afc4e7&height=200&section=header&text=Kim%20Mi%20Ryeong&fontSize=50"/>
 </p>
 
 <h3 align="center">🌈 SNS & Portfolio 🌈</h3>
